@@ -11,11 +11,13 @@ export int mul(int a, int b);
 // ===============
 // implementations
 
-export int add(int a, int b) {
+export int add(int a, int b) 
+{
    return a + b;
 }
 
 // Exercise 2: implements function 'mul', that multiplies two numbers
-export int mul(int a, int b) {
+export int mul(int a, int b) 
+{
    return a * b;
 }
